@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [Partha Mondal] 👋
 
-<!--
-**ParthaMondals/Parthamondals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student 
 
-Here are some ideas to get you started:
+🎓 Pursuing my Master's in Computer Science at CU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub is a collection of **college assignments, experiments, and personal projects** — documenting what I learn along the way.
+
+---
+
+### 🌱 Currently
+
+- Working on college assignments and personal projects
+- Learning by building and experimenting
+
+---
+
+### 📫 Connect
+
+[📧 Email](parthamondal@acm.org) 
+[📊 Kaggle](kaggle.com/partha255)
