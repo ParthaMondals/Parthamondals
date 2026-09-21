@@ -19,4 +19,4 @@ My GitHub is a collection of **college assignments, experiments, and personal pr
 
 Email me at - parthamondal@acm.org
 
-[📊 Kaggle]([https://www.kaggle.com/partha255])
+[📊 Check my Kaggle](https://www.kaggle.com/partha255)
